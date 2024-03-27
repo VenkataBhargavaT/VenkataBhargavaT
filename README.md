@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenkataBhargavaT
 - 👀 I’m interested in multi-object tracking using radars
-- 🌱 I’m currently learning the Extened object tracking
+- 🌱 I’m currently learning the DNN, 3D Object Fusion and Extened object tracking
 - 💞️ I’m looking to collaborate on Extended object tracking using Radars
 - 📫 you can reach out to me at tvenkatabhargav@outlook.com
 
